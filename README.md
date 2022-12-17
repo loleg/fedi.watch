@@ -1,6 +1,8 @@
-# Astro
+# fedi watch
 
-This directory is a brief example of an [Astro](https://astro.build/) site that can be deployed to Vercel with zero configuration.
+See https://fedi.watch
+
+This is an [Astro](https://astro.build/) site that can be deployed to Vercel with zero configuration.
 
 ## Deploy Your Own
 
